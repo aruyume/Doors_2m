@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doors_2m</string>
+    <string name="zabyl">Забыли пароль?</string>
+    <string name="zhmi">Жми сюда!</string>
+    <string name="voiti">Войти</string>
+    <string name="parol">Введите пароль</string>
+    <string name="pochta">Введите вашу почту</string>
+    <string name="zareg">Выполните вход или зарегистрируйтесь.</string>
+    <string name="welcomee">Добро пожаловать!</string>
+    <string name="entrance">Вход</string>
+</resources>
